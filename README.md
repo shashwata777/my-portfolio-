@@ -19,16 +19,6 @@ A modern, interactive 3D portfolio website built with **React.js**, **Vite**, **
 
 ---
 
-## 🚀 Projects Showcased
-
-1. **Real-Time Pothole Detection System** — *Python, PyTorch, YOLOv8, Streamlit* (`80.05% mAP@0.50` across `651` images / `1,784` instances, ONNX export)
-2. **U-Net: Semantic Image Segmentation** — *Python, TensorFlow, Keras, OpenCV, NumPy* (Encoder-decoder skip connections, BCE + Dice Loss)
-3. **ExpiryGuard — AI Expiry & Warranty Tracker** — [GitHub](https://github.com/shashwata777/Expirey-Tracker) (*MERN, Gemini AI Vision, Three.js, Firebase Auth, Node-Cron, Resend, Cloudinary*)
-4. **TalentAI — AI Resume Screening & Verification Portal** — [GitHub](https://github.com/shashwata777/Ai-Resume-Scanner) (*MERN, Redis, BullMQ, Hugging Face, Desklib, Three.js*)
-5. **RAG-Based Medical Report Q&A Bot** — [GitHub](https://github.com/shashwata777/rag-based-QNA-bot) (*Python, LangChain, ChromaDB, Groq LPU, HuggingFace, PyMuPDF, Tesseract OCR*)
-
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend**: React 18, Vite 6, CSS3 Glassmorphism
